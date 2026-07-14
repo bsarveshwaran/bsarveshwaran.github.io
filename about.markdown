@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+For 15 years, my job was to break software code, so that it would be better. Today, I use that same "veteran’s eye" to build data narratives that drive action. The QA DNA: Precision, integrity, and a refusal to accept "good enough." The Data Future: Predictive trends, cross-functional clarity, and innovation. I bring a veteran’s eye for detail to the field of Data Analytics. 
+
 Versatile and results-driven professional with a multidisciplinary background in Business Analysis, Data Analytics, Software Testing, Low-Code/No-Code Application Development, Application Support, IT Support & Project Management. I specialize in bridging the gap between business needs and technical solutions, delivering impactful outcomes across functional areas.
 
 With hands-on experience in streamlining operations, enhancing user experience, and driving digital transformation, I thrive in dynamic environments where agility and innovation are key. My approach combines analytical thinking with practical execution—whether it's building scalable applications, interpreting complex data sets, or managing cross-functional projects from concept to delivery.
